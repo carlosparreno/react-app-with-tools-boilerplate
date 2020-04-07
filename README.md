@@ -1,3 +1,5 @@
+Attention: This is not ready yet!
+
 # React app boilerplate
 
 This React app has been created with create-react-app and comes with the following tools and libraries:
